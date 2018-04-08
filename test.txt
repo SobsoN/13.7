@@ -1,0 +1,1 @@
+cat.jpg,modules,node_modules,package-lock.json,package.json,script.js,test.txt
